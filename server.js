@@ -45,6 +45,4 @@ app.use((err, req, res, next) => {
 app.listen(config.port, () => {
   console.log("http://localhost:" + config.port);
 });
-
-
-
+//coment git uchun

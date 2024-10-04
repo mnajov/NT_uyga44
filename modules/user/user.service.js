@@ -17,6 +17,26 @@ class UserService {
     return resData;
   }
 
+  async getId(id){
+
+
+    const data = await this.#repository.read();
+
+    const foundId = data.find((user) => user.id === id);
+
+    const resData = new ResData(200, "success", foundId);
+
+    if (!foundId) {
+      resData.status = 404;
+      resData.message = "user not found";
+    }
+
+    return resData;
+
+
+
+  }
+
   async getByLogin(login) {
     const data = await this.#repository.read();
 

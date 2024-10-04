@@ -2,7 +2,42 @@
   {
     "id": "cdfbgfswdec",
     "model": "audi",
+    "price": 23323,
+    "owner": "cdfbgfc",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/cars-4-header.jpg"
+  },
+  {
+    "id": "cdfbgfswdec",
+    "model": "audi",
+    "price": 23323,
+    "owner": "cdfbgfc",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/cars-4-header.jpg"
+  },
+
+  {
+    "id": "cdfbgfswdec",
+    "model": "audi",
+    "price": 23323,
+    "owner": "cdfbgfc",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/cars-4-header.jpg"
+  },
+
+  {
+    "id": "cdfbgfswdec",
+    "model": "audi",
+    "price": 23323,
+    "owner": "cdfbgfc",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/cars-4-header.jpg"
+  },
+
+  {
+    "id": "cdfbgfswdec",
+    "model": "audi",
+    "price": 23323,
     "owner": "cdfbgfc",
     "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/08/cars-4-header.jpg"
   }
+
+
+
 ]

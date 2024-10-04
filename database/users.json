@@ -12,5 +12,19 @@
     "fullName": "Ilhom",
     "role": "admin",
     "id": "b49e43c8-e103-4798-961f-d5d8e332c7fb"
+  },
+  {
+    "login": "aziz",
+    "password": "$2b$10$81Xdry1HCuRbusxe9TMAZOifb6YP/2q0OvOjW.FwsQt2wUeL4F/LO",
+    "fullName": "aaaa",
+    "role": "aaaa",
+    "id": "1e1cb05b-429d-462b-8a00-ee53a88b0c46"
+  },
+  {
+    "login": "allayar",
+    "password": "$2b$10$RxhVSK.LMCGiu6BltovzgegVYZKDP9rQfej0LrSUEQna1Q8Z2oxem",
+    "fullName": "allayar",
+    "role": "jaqsiliq",
+    "id": "ab1ced45-f5ce-4c29-8220-a3e073fba631"
   }
 ]

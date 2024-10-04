@@ -1,3 +1,4 @@
+const { CustomError } = require("../../../lib/customError");
 const { userService } = require("../../user/user.service");
 
 class HomeController {
@@ -8,6 +9,12 @@ class HomeController {
 
   async render(req, res, next) {
     try {
+      
+      // if(!req.cookies.token){
+      // throw new CustomError(401, "sizdin tokeniniz yoq")
+      
+      // }
+      
       const users = await this.#userService.getAll();
 
       res.render("index.ejs", users);

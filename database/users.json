@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cdfbgfc",
+    "login": "test",
+    "password": "hbdghn gsfgabtr",
+    "fullName": "Kamoliddin Jamoliddinov",
+    "role": "admin"
+  },
+  {
+    "login": "ilhom",
+    "password": "$2b$10$p76KhOKPIkoUtMQtMbw5yemkX8QNytGAG5eSFPLXOCev5LvTbruR6",
+    "fullName": "Ilhom",
+    "role": "admin",
+    "id": "b49e43c8-e103-4798-961f-d5d8e332c7fb"
+  }
+]

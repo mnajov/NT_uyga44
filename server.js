@@ -45,4 +45,3 @@ app.use((err, req, res, next) => {
 app.listen(config.port, () => {
   console.log("http://localhost:" + config.port);
 });
-//bu N= 1

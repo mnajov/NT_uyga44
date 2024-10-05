@@ -47,3 +47,4 @@ app.listen(config.port, () => {
 });
 
 //men ozim yozgan kodim ziddyatni hal qilgan joyoim
+// branch yangidan qoshtim
